@@ -1,0 +1,5 @@
+{
+  "name": "SkillScribe",
+  "description": "SkillScribe is a personal mentor app that turns your real-world problems into personalized, actionable micro-lessons. Just show it a photo of what you're stuck on, and it generates a custom tutorial and the code to solve it.",
+  "requestFramePermissions": []
+}
